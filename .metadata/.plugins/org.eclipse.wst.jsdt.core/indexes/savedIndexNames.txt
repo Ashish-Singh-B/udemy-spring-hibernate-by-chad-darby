@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/asingh/my important documents/preparation/eclipse workspaces/Spring & Spring Boot by Chad Darby/class applications/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2840628416.index
+39016037.index
+2368464066.index
+2304268054.index
+2994731083.index
+2857742757.index
+1579535001.index

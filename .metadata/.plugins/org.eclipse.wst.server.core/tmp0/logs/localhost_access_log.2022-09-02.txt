@@ -1,0 +1,12 @@
+127.0.0.1 - - [02/Sep/2022:20:02:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:02:35 +0530] "GET /web-customer-tracker/Testdbservlet HTTP/1.1" 200 86
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:03:11 +0530] "GET /web-customer-tracker/Testdbservlet HTTP/1.1" 200 86
+127.0.0.1 - - [02/Sep/2022:20:04:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:04:45 +0530] "GET /web-customer-tracker/Testdbservlet HTTP/1.1" 200 108
+127.0.0.1 - - [02/Sep/2022:20:05:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:05:25 +0530] "GET /web-customer-tracker/Testdbservlet HTTP/1.1" 200 86
+127.0.0.1 - - [02/Sep/2022:20:05:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:05:53 +0530] "GET /web-customer-tracker/Testdbservlet HTTP/1.1" 200 108
+127.0.0.1 - - [02/Sep/2022:20:21:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:21:06 +0530] "GET /web-customer-tracker/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/Sep/2022:20:21:14 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 157

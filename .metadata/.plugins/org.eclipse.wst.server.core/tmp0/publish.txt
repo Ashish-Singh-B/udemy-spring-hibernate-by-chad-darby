@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Sep 05 22:38:08 IST 2022
+org.eclipse.jst.jee.server\:/binary\:/home/asingh/my\ important\ documents/preparation/eclipse\ workspaces/Spring\ &\ Spring\ Boot\ by\ Chad\ Darby/class\ applications/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:/home/asingh/my\ important\ documents/preparation/eclipse\ workspaces/Spring\ &\ Spring\ Boot\ by\ Chad\ Darby/class\ applications/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/home/asingh/my\ important\ documents/preparation/eclipse\ workspaces/Spring\ &\ Spring\ Boot\ by\ Chad\ Darby/class\ applications/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:/home/asingh/my\ important\ documents/preparation/eclipse\ workspaces/Spring\ &\ Spring\ Boot\ by\ Chad\ Darby/class\ applications/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar

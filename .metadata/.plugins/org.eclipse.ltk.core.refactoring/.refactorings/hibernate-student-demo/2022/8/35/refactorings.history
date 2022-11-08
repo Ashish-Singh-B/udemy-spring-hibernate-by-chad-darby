@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Student.java&apos; to &apos;hibernate-many-2-many-tutorial/src/com.luv2code.hibernate.demo.entity&apos;&#x0A;- Original project: &apos;hibernate-student-demo&apos;&#x0A;- Destination element: &apos;hibernate-many-2-many-tutorial/src/com.luv2code.hibernate.demo.entity&apos;&#x0A;- Original element: &apos;com.luv2code.hibernate.demo.entity.Student.java&apos;" description="Copy compilation unit" destination="=hibernate-many-2-many-tutorial/src&lt;com.luv2code.hibernate.demo.entity" element1="/src&lt;com.luv2code.hibernate.demo.entity{Student.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1661507794247" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/home/asingh/my important documents/preparation/eclipse workspaces/Spring & Spring Boot by Chad Darby/class applications/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3246518651.index
+/spring-mvc-demo/src
+/home/asingh/my important documents/preparation/eclipse workspaces/Spring & Spring Boot by Chad Darby/class applications/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3750454120.index
+/web-customer-tracker/src
+/home/asingh/my important documents/preparation/eclipse workspaces/Spring & Spring Boot by Chad Darby/class applications/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/39016037.index
+/web-customer-tracker/src

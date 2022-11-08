@@ -1,0 +1,11 @@
+package com.luv2code.springdemo.controller;
+
+import org.springframework.stereotype.Controller;
+
+import sun.misc.Contended;
+
+@Controller
+public class CustomerController {
+
+	
+}

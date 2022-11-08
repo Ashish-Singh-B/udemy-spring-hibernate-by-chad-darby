@@ -1,0 +1,25 @@
+package com.luv2code.springdemo.dao;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.luv2code.springdemo.entity.Customer;
+import com.mysql.cj.xdevapi.SessionFactory;
+
+@Repository
+public class CustomerDAOImpl implements CustomerDAO {
+
+	@Autowired
+	private SessionFactory SessionFactory;
+	
+	@Transactional
+	@Override
+	public List<Customer> getAllCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

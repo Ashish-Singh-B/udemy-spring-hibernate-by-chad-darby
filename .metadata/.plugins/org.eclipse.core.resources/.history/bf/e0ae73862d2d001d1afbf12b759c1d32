@@ -1,0 +1,21 @@
+package com.luv2code.springdemo.dao;
+
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.springframework.stereotype.Repository;
+
+import com.luv2code.springdemo.entity.Customer;
+
+@Repository
+public class CustomerDAOImpl implements CustomerDAO {
+
+	@Transactional
+	@Override
+	public List<Customer> getAllCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

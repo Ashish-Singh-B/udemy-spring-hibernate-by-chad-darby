@@ -1,0 +1,22 @@
+package com.luv2code.springdemo.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.luv2code.springdemo.dao.CustomerDAOImpl;
+
+
+@Controller
+@RequestMapping("/customer")
+public class CustomerController {
+
+	@Autowired
+	private CustomerDAOImpl customerDaoImpl;
+	
+	@RequestMapping("/list")
+	public String getListOfCustomer(Model model) {
+		 return "list-Customers";
+	}
+}
